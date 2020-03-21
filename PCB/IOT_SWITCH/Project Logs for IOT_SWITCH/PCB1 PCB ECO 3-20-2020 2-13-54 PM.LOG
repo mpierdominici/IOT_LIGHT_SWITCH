@@ -1,0 +1,215 @@
+Added Component: Designator=*(RELE SERIE 964)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ACDBR_1_acDetector(DIOB_W005M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "GeneSiC Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "W005M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4-4 Rectron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/W005M/GeneSiC%20Semiconductor/view-part/1824904/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ACDBR_2_acDetector(DIOB_W005M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "GeneSiC Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "W005M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4-4 Rectron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/W005M/GeneSiC%20Semiconductor/view-part/1824904/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ACDBR_3_acDetector(DIOB_W005M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "GeneSiC Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "W005M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4-4 Rectron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/W005M/GeneSiC%20Semiconductor/view-part/1824904/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ACDBR_4_acDetector(DIOB_W005M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "GeneSiC Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "W005M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4-4 Rectron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/W005M/GeneSiC%20Semiconductor/view-part/1824904/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ACDC1_1_acDetector(CAP100RP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ACDC1_2_acDetector(CAP100RP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ACDC1_3_acDetector(CAP100RP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ACDC1_4_acDetector(CAP100RP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ACDopto_1_acDetector(DIP6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "4N25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-6 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/4N25/Vishay%20Semiconductor%20Opto%20Division/view-part/641454/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ACDopto_2_acDetector(DIP6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "4N25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-6 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/4N25/Vishay%20Semiconductor%20Opto%20Division/view-part/641454/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ACDopto_3_acDetector(DIP6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "4N25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-6 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/4N25/Vishay%20Semiconductor%20Opto%20Division/view-part/641454/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ACDopto_4_acDetector(DIP6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "4N25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-6 Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/4N25/Vishay%20Semiconductor%20Opto%20Division/view-part/641454/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ACDR1_1_acDetector(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ACDR1_2_acDetector(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ACDR1_3_acDetector(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ACDR1_4_acDetector(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ACDR2_1_acDetector(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ACDR2_2_acDetector(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ACDR2_3_acDetector(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ACDR2_4_acDetector(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ACDR3_1_acDetector(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ACDR3_2_acDetector(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ACDR3_3_acDetector(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ACDR3_4_acDetector(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Teclas220v(BORNERA5)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+3.3 Pin=ACDopto_1_acDetector-5
+Added Pin To Net: NetName=+3.3 Pin=ACDopto_2_acDetector-5
+Added Pin To Net: NetName=+3.3 Pin=ACDopto_3_acDetector-5
+Added Pin To Net: NetName=+3.3 Pin=ACDopto_4_acDetector-5
+Added Net: Name=+3.3
+Added Pin To Net: NetName=GND Pin=ACDC1_1_acDetector-2
+Added Pin To Net: NetName=GND Pin=ACDC1_2_acDetector-2
+Added Pin To Net: NetName=GND Pin=ACDC1_3_acDetector-2
+Added Pin To Net: NetName=GND Pin=ACDC1_4_acDetector-2
+Added Pin To Net: NetName=GND Pin=ACDR2_1_acDetector-1
+Added Pin To Net: NetName=GND Pin=ACDR2_2_acDetector-1
+Added Pin To Net: NetName=GND Pin=ACDR2_3_acDetector-1
+Added Pin To Net: NetName=GND Pin=ACDR2_4_acDetector-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetACDBR_1_acDetector_1 Pin=ACDBR_1_acDetector-1
+Added Pin To Net: NetName=NetACDBR_1_acDetector_1 Pin=ACDopto_1_acDetector-2
+Added Net: Name=NetACDBR_1_acDetector_1
+Added Pin To Net: NetName=NetACDBR_1_acDetector_2 Pin=ACDBR_1_acDetector-2
+Added Pin To Net: NetName=NetACDBR_1_acDetector_2 Pin=Teclas220v-5
+Added Net: Name=NetACDBR_1_acDetector_2
+Added Pin To Net: NetName=NetACDBR_1_acDetector_3 Pin=ACDBR_1_acDetector-3
+Added Pin To Net: NetName=NetACDBR_1_acDetector_3 Pin=ACDR1_1_acDetector-1
+Added Net: Name=NetACDBR_1_acDetector_3
+Added Pin To Net: NetName=NetACDBR_1_acDetector_4 Pin=ACDBR_1_acDetector-4
+Added Pin To Net: NetName=NetACDBR_1_acDetector_4 Pin=ACDBR_2_acDetector-4
+Added Pin To Net: NetName=NetACDBR_1_acDetector_4 Pin=ACDBR_3_acDetector-4
+Added Pin To Net: NetName=NetACDBR_1_acDetector_4 Pin=ACDBR_4_acDetector-4
+Added Pin To Net: NetName=NetACDBR_1_acDetector_4 Pin=Teclas220v-1
+Added Net: Name=NetACDBR_1_acDetector_4
+Added Pin To Net: NetName=NetACDBR_2_acDetector_1 Pin=ACDBR_2_acDetector-1
+Added Pin To Net: NetName=NetACDBR_2_acDetector_1 Pin=ACDopto_2_acDetector-2
+Added Net: Name=NetACDBR_2_acDetector_1
+Added Pin To Net: NetName=NetACDBR_2_acDetector_2 Pin=ACDBR_2_acDetector-2
+Added Pin To Net: NetName=NetACDBR_2_acDetector_2 Pin=Teclas220v-4
+Added Net: Name=NetACDBR_2_acDetector_2
+Added Pin To Net: NetName=NetACDBR_2_acDetector_3 Pin=ACDBR_2_acDetector-3
+Added Pin To Net: NetName=NetACDBR_2_acDetector_3 Pin=ACDR1_2_acDetector-1
+Added Net: Name=NetACDBR_2_acDetector_3
+Added Pin To Net: NetName=NetACDBR_3_acDetector_1 Pin=ACDBR_3_acDetector-1
+Added Pin To Net: NetName=NetACDBR_3_acDetector_1 Pin=ACDopto_3_acDetector-2
+Added Net: Name=NetACDBR_3_acDetector_1
+Added Pin To Net: NetName=NetACDBR_3_acDetector_2 Pin=ACDBR_3_acDetector-2
+Added Pin To Net: NetName=NetACDBR_3_acDetector_2 Pin=Teclas220v-3
+Added Net: Name=NetACDBR_3_acDetector_2
+Added Pin To Net: NetName=NetACDBR_3_acDetector_3 Pin=ACDBR_3_acDetector-3
+Added Pin To Net: NetName=NetACDBR_3_acDetector_3 Pin=ACDR1_3_acDetector-1
+Added Net: Name=NetACDBR_3_acDetector_3
+Added Pin To Net: NetName=NetACDBR_4_acDetector_1 Pin=ACDBR_4_acDetector-1
+Added Pin To Net: NetName=NetACDBR_4_acDetector_1 Pin=ACDopto_4_acDetector-2
+Added Net: Name=NetACDBR_4_acDetector_1
+Added Pin To Net: NetName=NetACDBR_4_acDetector_2 Pin=ACDBR_4_acDetector-2
+Added Pin To Net: NetName=NetACDBR_4_acDetector_2 Pin=Teclas220v-2
+Added Net: Name=NetACDBR_4_acDetector_2
+Added Pin To Net: NetName=NetACDBR_4_acDetector_3 Pin=ACDBR_4_acDetector-3
+Added Pin To Net: NetName=NetACDBR_4_acDetector_3 Pin=ACDR1_4_acDetector-1
+Added Net: Name=NetACDBR_4_acDetector_3
+Added Pin To Net: NetName=NetACDC1_1_acDetector_1 Pin=ACDC1_1_acDetector-1
+Added Pin To Net: NetName=NetACDC1_1_acDetector_1 Pin=ACDR3_1_acDetector-2
+Added Net: Name=NetACDC1_1_acDetector_1
+Added Pin To Net: NetName=NetACDC1_2_acDetector_1 Pin=ACDC1_2_acDetector-1
+Added Pin To Net: NetName=NetACDC1_2_acDetector_1 Pin=ACDR3_2_acDetector-2
+Added Net: Name=NetACDC1_2_acDetector_1
+Added Pin To Net: NetName=NetACDC1_3_acDetector_1 Pin=ACDC1_3_acDetector-1
+Added Pin To Net: NetName=NetACDC1_3_acDetector_1 Pin=ACDR3_3_acDetector-2
+Added Net: Name=NetACDC1_3_acDetector_1
+Added Pin To Net: NetName=NetACDC1_4_acDetector_1 Pin=ACDC1_4_acDetector-1
+Added Pin To Net: NetName=NetACDC1_4_acDetector_1 Pin=ACDR3_4_acDetector-2
+Added Net: Name=NetACDC1_4_acDetector_1
+Added Pin To Net: NetName=NetACDopto_1_acDetector_1 Pin=ACDopto_1_acDetector-1
+Added Pin To Net: NetName=NetACDopto_1_acDetector_1 Pin=ACDR1_1_acDetector-2
+Added Net: Name=NetACDopto_1_acDetector_1
+Added Pin To Net: NetName=NetACDopto_1_acDetector_4 Pin=ACDopto_1_acDetector-4
+Added Pin To Net: NetName=NetACDopto_1_acDetector_4 Pin=ACDR2_1_acDetector-2
+Added Pin To Net: NetName=NetACDopto_1_acDetector_4 Pin=ACDR3_1_acDetector-1
+Added Net: Name=NetACDopto_1_acDetector_4
+Added Pin To Net: NetName=NetACDopto_2_acDetector_1 Pin=ACDopto_2_acDetector-1
+Added Pin To Net: NetName=NetACDopto_2_acDetector_1 Pin=ACDR1_2_acDetector-2
+Added Net: Name=NetACDopto_2_acDetector_1
+Added Pin To Net: NetName=NetACDopto_2_acDetector_4 Pin=ACDopto_2_acDetector-4
+Added Pin To Net: NetName=NetACDopto_2_acDetector_4 Pin=ACDR2_2_acDetector-2
+Added Pin To Net: NetName=NetACDopto_2_acDetector_4 Pin=ACDR3_2_acDetector-1
+Added Net: Name=NetACDopto_2_acDetector_4
+Added Pin To Net: NetName=NetACDopto_3_acDetector_1 Pin=ACDopto_3_acDetector-1
+Added Pin To Net: NetName=NetACDopto_3_acDetector_1 Pin=ACDR1_3_acDetector-2
+Added Net: Name=NetACDopto_3_acDetector_1
+Added Pin To Net: NetName=NetACDopto_3_acDetector_4 Pin=ACDopto_3_acDetector-4
+Added Pin To Net: NetName=NetACDopto_3_acDetector_4 Pin=ACDR2_3_acDetector-2
+Added Pin To Net: NetName=NetACDopto_3_acDetector_4 Pin=ACDR3_3_acDetector-1
+Added Net: Name=NetACDopto_3_acDetector_4
+Added Pin To Net: NetName=NetACDopto_4_acDetector_1 Pin=ACDopto_4_acDetector-1
+Added Pin To Net: NetName=NetACDopto_4_acDetector_1 Pin=ACDR1_4_acDetector-2
+Added Net: Name=NetACDopto_4_acDetector_1
+Added Pin To Net: NetName=NetACDopto_4_acDetector_4 Pin=ACDopto_4_acDetector-4
+Added Pin To Net: NetName=NetACDopto_4_acDetector_4 Pin=ACDR2_4_acDetector-2
+Added Pin To Net: NetName=NetACDopto_4_acDetector_4 Pin=ACDR3_4_acDetector-1
+Added Net: Name=NetACDopto_4_acDetector_4
+Added Class: Name=1_acDetector
+Added Class: Name=2_acDetector
+Added Class: Name=3_acDetector
+Added Class: Name=4_acDetector
+Added Class: Name=Sheet1
+Added Class: Name=acDetector
+Added Room: Name=1_acDetector
+Added Room: Name=2_acDetector
+Added Room: Name=3_acDetector
+Added Room: Name=4_acDetector
+Added Room: Name=Sheet1
